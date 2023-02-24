@@ -32,9 +32,14 @@
   <img align="center" alt="Endi-Chakra" height="30" width="120" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
  <br>
    <br>
-  <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-  <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+      <img align="center" alt="Endi-Express" height="30" width="120" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img align="center" alt="Endi-SQLite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img align="center" alt="Endi-Jest" height="30" width="100" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="Endi-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+   <br>
+   <br>
+    <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
     
  <br>
