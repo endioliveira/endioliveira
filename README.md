@@ -4,8 +4,8 @@
 
 ## Um pouco sobre mim... 
 - 📚 Acadêmica de Tecnologia em Sistemas de Computação na UFF
-- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
-- 💻 HTML | CSS | React | Jest | Node JS | TypeScript | SQLite | AWS | Firebase 
+- 🔭 Desenvolvedora Web Full Stack formada pela Labenu
+- 💻 HTML | CSS | React | Jest | Node JS | TypeScript | SQLite | AWS  
 - 😄 Pronome: ela/dela
 
 <div align="center">
