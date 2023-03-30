@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+22+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim... 
-- 📚 Acadêmica de Tecnologia em Sistemas de Computação na UFF
+- 📚 Acadêmica de Análise e Desenvolvimento de Sistemas
 - 🔭 Desenvolvedora Web Full Stack formada pela Labenu
 - 💻 HTML | CSS | React | Jest | Node JS | TypeScript | SQLite | AWS  
 - 😄 Pronome: ela/dela
