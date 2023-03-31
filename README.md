@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+22+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-
 ## Um pouco sobre mim...  <img  alt="gatinho" height="50"  src="https://user-images.githubusercontent.com/100172961/229232196-11c936e3-6657-43d0-86b1-b15af7b0f128.png">
 
 <div>
