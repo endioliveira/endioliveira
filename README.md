@@ -2,12 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+22+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-## Um pouco sobre mim... 
-- 📚 Acadêmica de Análise e Desenvolvimento de Sistemas
-- 🔭 Desenvolvedora Web Full Stack formada pela Labenu
-- 💻 HTML | CSS | React | Jest | Node JS | TypeScript | SQLite | AWS  
-- 😄 Pronome: ela/dela
 
+## Um pouco sobre mim...   <img  alt="gatinho" height="50"  src="https://user-images.githubusercontent.com/100172961/229232196-11c936e3-6657-43d0-86b1-b15af7b0f128.png">
+
+<div>
+   <img align="right" alt="menina mexendo no pc" width="200" src="https://user-images.githubusercontent.com/100172961/229235510-3bec5db3-d8ac-4413-80c7-2533a1726311.png">
+
+* 👩‍💻 Desenvolvedora Web Full Stack formada pela Labenu
+* 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+* 🌍 Nova Iguaçu - Rio de Janeiro 
+* 😄 Pronome: ela/dela
+* 🖥️ [Link do meu Portfólio](http://portfolio-endioliveira.vercel.app/)
+* ✉️ E-mail: [eomedeiros21@gmail.com](mailto:eomedeiros21@gmail.com)
+* ⭐ HTML | CSS | JavaScript | ReactJS | TypeScript | NodeJS | SQLite | AWS | Jest | Tailwind CSS 
+
+<br>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/endioliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,6 +51,8 @@
    <br>
     <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+        <img align="center" alt="Endi-React-Vite" height="30" width="90" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+          <img align="center" alt="Endi-Tailwind-CSS" height="30" width="130" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
     
  <br>
