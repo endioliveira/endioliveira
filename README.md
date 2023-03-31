@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+22+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
-## Um pouco sobre mim...   <img  alt="gatinho" height="50"  src="https://user-images.githubusercontent.com/100172961/229232196-11c936e3-6657-43d0-86b1-b15af7b0f128.png">
+## Um pouco sobre mim...  <img  alt="gatinho" height="50"  src="https://user-images.githubusercontent.com/100172961/229232196-11c936e3-6657-43d0-86b1-b15af7b0f128.png">
 
 <div>
-   <img align="right" alt="menina mexendo no pc" width="200" src="https://user-images.githubusercontent.com/100172961/229235510-3bec5db3-d8ac-4413-80c7-2533a1726311.png">
+   <img align="right" alt="menina mexendo no pc" width="200" height="200" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 * 👩‍💻 Desenvolvedora Web Full Stack formada pela Labenu
 * 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
