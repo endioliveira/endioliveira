@@ -13,7 +13,7 @@
 * 😄 Pronome: ela/dela
 * 🖥️ [Link do meu Portfólio](http://portfolio-endioliveira.vercel.app/)
 * ✉️ E-mail: [eomedeiros21@gmail.com](mailto:eomedeiros21@gmail.com)
-* ⭐ HTML | CSS | JavaScript | ReactJS | TypeScript | NodeJS | SQLite | AWS | Jest | Tailwind CSS 
+* ⭐ HTML | CSS | JavaScript | ReactJS | TypeScript | NodeJS | SQLite | Jest | Tailwind CSS 
 
 <br>
 <br>
