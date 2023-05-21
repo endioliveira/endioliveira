@@ -45,12 +45,16 @@
     <img align="center" alt="Endi-SQLite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
       <img align="center" alt="Endi-Jest" height="30" width="100" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="Endi-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+       <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+     <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
    <br>
    <br>
-    <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-  <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
         <img align="center" alt="Endi-React-Vite" height="30" width="90" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
           <img align="center" alt="Endi-Tailwind-CSS" height="30" width="130" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+   <img align="center" alt="Endi-MaterialUI" height="30" width="130" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+   <img align="center" alt="Endi-Xampp" height="30" width="100" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+   <img align="center" alt="Endi-SLACK" height="30" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
 </div>
     
  <br>
