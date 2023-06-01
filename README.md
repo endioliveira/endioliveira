@@ -7,6 +7,7 @@
 <div>
    <img align="right" alt="menina mexendo no pc" width="200" height="200" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
+* 💻 Desenvolvedora Frontend 
 * 👩‍💻 Desenvolvedora Web Full Stack formada pela Labenu
 * 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 * 🌍 Nova Iguaçu - Rio de Janeiro 
