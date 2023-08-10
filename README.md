@@ -1,79 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+23+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
-## Um pouco sobre mim...  <img  alt="gatinho" height="50"  src="https://user-images.githubusercontent.com/100172961/229232196-11c936e3-6657-43d0-86b1-b15af7b0f128.png">
+![1](https://github.com/endioliveira/endioliveira/assets/100172961/03b138a2-e5fb-4714-8f2b-60934047c09d)
 
 <div>
    <img align="right" alt="menina mexendo no pc" width="200" height="200" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 * 💻 Desenvolvedora Frontend 
-* 👩‍💻 Desenvolvedora Web Full Stack formada pela Labenu
+* 👩‍💻 Formação de Desenvolvimento Web Full Stack pela Labenu
 * 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 * 🌍 Nova Iguaçu - Rio de Janeiro 
 * 😄 Pronome: ela/dela
 * 🖥️ [Link do meu Portfólio](http://portfolio-endioliveira.vercel.app/)
 * ✉️ E-mail: [eomedeiros21@gmail.com](mailto:eomedeiros21@gmail.com)
 
-<br>
-<br>
-<br>
+![2](https://github.com/endioliveira/endioliveira/assets/100172961/da080d79-00b8-4f1c-aa6b-216168cc1f6c)
 <div align="center">
-  <a href="https://github.com/endioliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endioliveira&layout=compact&langs_count=7&theme=dracula"/> 
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=endioliveira&theme=dracula&hide_border=false"
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+   <img align="center"src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+   <img align="center" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"><br>
+   <br>
+   <img align="center" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+   <img align="center" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white">
+   
 </div>
-    
-<div align="center"><br>
-  <img align="center" alt="Endi-Js" height="30" width="150" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Endi-HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Endi-CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Endi-Netlify" height="30" width="100" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-    <img align="center" alt="Endi-Notion" height="30" width="100" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-      <img align="center" alt="Endi-Photoshop" height="30" width="150" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <br>
-  <br>
-  <img align="center" alt="Endi-NPM" height="30" width="100" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" alt="Endi-NODEJS" height="30" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Endi-Typescript" height="30" width="130" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Endi-React" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Endi-StyledComponents" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="Endi-Chakra" height="30" width="120" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
- <br>
-   <br>
-      <img align="center" alt="Endi-Express" height="30" width="120" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img align="center" alt="Endi-SQLite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-      <img align="center" alt="Endi-Jest" height="30" width="100" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img align="center" alt="Endi-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-       <img align="center" alt="Endi-Canva" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-     <img align="center" alt="Endi-Figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-   <br>
-   <br>
-        <img align="center" alt="Endi-React-Vite" height="30" width="90" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-          <img align="center" alt="Endi-Tailwind-CSS" height="30" width="130" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-   <img align="center" alt="Endi-MaterialUI" height="30" width="130" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-   <img align="center" alt="Endi-Xampp" height="30" width="100" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-   <img align="center" alt="Endi-SLACK" height="30" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<br>
 
+![Texto do seu parágrafo](https://github.com/endioliveira/endioliveira/assets/100172961/24924b7b-cdf2-477b-be5f-132adae2c3e6)
+<div align="center">
+   <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+   <img src="https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white">
+   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white">
+   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
-    
- <br>
- <hr>
- <br>
+<br>
+
+![3](https://github.com/endioliveira/endioliveira/assets/100172961/d6aaef3c-3740-4343-8e0d-75b1139351de)
+
 <div align="center"> 
-  <a href="https://instagram.com/medeiros_eo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eomedeiros21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/endi-oliveira-71309b232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/endioliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="www.instagram.com/medeiros_eo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:eomedeiros21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=endioliveira&icon=2&color=10)](https://visitcount.itsvg.in)
-    
-<div align="center">
-  
-  ![Snake animation](https://github.com/endioliveira/endioliveira/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
