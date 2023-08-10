@@ -10,8 +10,10 @@
 * 😄 Pronome: ela/dela
 * 🖥️ [Link do meu Portfólio](http://portfolio-endioliveira.vercel.app/)
 * ✉️ E-mail: [eomedeiros21@gmail.com](mailto:eomedeiros21@gmail.com)
+<br>
 
 ![2](https://github.com/endioliveira/endioliveira/assets/100172961/da080d79-00b8-4f1c-aa6b-216168cc1f6c)
+
 <div align="center">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -20,8 +22,9 @@
    <img align="center"src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
    <img align="center" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"><br>
    <br>
+   <br>
+   <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white">
