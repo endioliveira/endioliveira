@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/endioliveira/endioliveira/assets/100172961/a4813547-2616-4094-b6ed-d3c16b906c14">
+<img align="right" width="400px" src="https://github.com/endioliveira/endioliveira/assets/100172961/a4813547-2616-4094-b6ed-d3c16b906c14">
 <h2>Olá! Seja bem vindo!</h2>
 
 🌺 23 anos | Rio de Janeiro <br>
