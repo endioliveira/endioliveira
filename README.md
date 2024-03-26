@@ -1,12 +1,12 @@
 <img align="right" width="400px" src="https://github.com/endioliveira/endioliveira/assets/100172961/a4813547-2616-4094-b6ed-d3c16b906c14">
-<h2>Olá! Seja bem vindo!</h2>
+<h3>Olá! Seja bem vindo!</h3>
 
 🌺 23 anos | Rio de Janeiro <br>
 👩‍💻 Desenvolvedora frontend <br>
 🖥️ Estudante de Análise e Desenvolvimento de Sistemas <br>
 💖 Gosto de ouvir música, sou apaixonada por gatos e adoro café! 
 
-<h2>Skills</h2>
+<h3>Skills</h3>
 <img src="https://github.com/endioliveira/endioliveira/assets/100172961/6bff50a9-6756-472f-b224-7542b390b2db" width="30px" height="30px">
 <img src="https://github.com/endioliveira/endioliveira/assets/100172961/500677dc-145d-49cc-b1bc-c0328f0429c0" width="30px" height="30px">
 <img src="https://github.com/endioliveira/endioliveira/assets/100172961/7238ec30-7f06-4be9-a38f-e63d69793f74" width="30px" height="30px">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2>Entre em contato</h2>
+<h3>Entre em contato</h3>
 <a href="https://www.instagram.com/medeiros_eo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/endioliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:eomedeiros21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
