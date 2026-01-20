@@ -30,6 +30,7 @@ Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como e
 
 **Estagiária Desenvolvedora Frontend**  
 *2 anos*  
+
 ---
 
 ## 📚 Formação
