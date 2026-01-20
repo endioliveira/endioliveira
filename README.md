@@ -27,12 +27,9 @@ Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como e
 
 **Desenvolvedora Frontend Júnior**  
 *Maio 2024 - Atual*  
-- Desenvolvimento frontend em aplicações web. 
 
 **Estagiária Desenvolvedora Frontend**  
 *2 anos*  
-- Desenvolvimento e manutenção de interfaces frontend. 
-
 ---
 
 ## 📚 Formação
