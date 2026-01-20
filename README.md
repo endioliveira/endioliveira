@@ -1,8 +1,8 @@
-# Olá, eu sou [Endi Oliveira] 👋
+# Olá, eu sou Endi Oliveira 👋
 
-Sou desenvolvedora **frontend** de 25 anos, morando no Rio de Janeiro, RJ. Formada em Análise e Desenvolvimento de Sistemas. [memory:3]
+Sou desenvolvedora **frontend** de 25 anos, morando no Rio de Janeiro, RJ. Formada em Análise e Desenvolvimento de Sistemas.
 
-Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como estagiária e, desde maio de 2024, como desenvolvedora frontend júnior. [memory:3]
+Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como estagiária e, desde maio de 2024, como desenvolvedora frontend júnior.
 
 ---
 
@@ -27,11 +27,11 @@ Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como e
 
 **Desenvolvedora Frontend Júnior**  
 *Maio 2024 - Atual*  
-- Desenvolvimento frontend em aplicações web. [memory:3]
+- Desenvolvimento frontend em aplicações web. 
 
 **Estagiária Desenvolvedora Frontend**  
 *2 anos*  
-- Desenvolvimento e manutenção de interfaces frontend. [memory:3]
+- Desenvolvimento e manutenção de interfaces frontend. 
 
 ---
 
@@ -39,7 +39,7 @@ Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como e
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Centro Universitário União das Américas*  
-*Concluído* [memory:3]
+*Concluído* 
 
 ---
 
