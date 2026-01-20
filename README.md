@@ -1,38 +1,51 @@
-<p align="left">
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+a+Endi+Oliveira!++%E2%8B%86%CB%99%E2%9F%A1+%E2%99%A1&font=Fira+Code&pause=1000&color=F70086&random=false&width=435"/>
- </a>
-</p>
-<img align="right" alt="" height="400px" src="https://github.com/endioliveira/endioliveira/assets/100172961/a4813547-2616-4094-b6ed-d3c16b906c14">
+# Olá, eu sou [Endi Oliveira] 👋
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hibiscus.png" alt="Hibiscus" width="25" height="25" /> 24 anos | Rio de Janeiro
-<p align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="25" height="25" /> Desenvolvedora frontend</p>
-<p align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Light%20Skin%20Tone.png" alt="Woman Student Medium-Light Skin Tone" width="25" height="25" /> Estudante de Análise e Desenvolvimento de Sistemas</p>
-<p align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" alt="Pink Heart" width="25" height="25" /> Gosto de ouvir música, sou apaixonada por gatos e adoro doces! </p>
+Sou desenvolvedora **frontend** de 25 anos, morando no Rio de Janeiro, RJ. Formada em Análise e Desenvolvimento de Sistemas. [memory:3]
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Entre em contato</h3>
-<a href="https://www.instagram.com/medeiros_eo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=FF407D"></a>
-<a href="https://www.linkedin.com/in/endioliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF407D"></a>
-<a href="mailto:eomedeiros21@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF407D" target="_blank"></a>
+Tenho cerca de 3 anos de experiência em desenvolvimento frontend: 2 anos como estagiária e, desde maio de 2024, como desenvolvedora frontend júnior. [memory:3]
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Skills</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,styledcomponents,tailwind,bootstrap,materialui,php,laravel,nodejs,npm,postman,figma,git,notion,obsidian,phpstorm,vscode,discord,windows"/>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endioliveira/endioliveira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endioliveira/endioliveira/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/endioliveira/endioliveira/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+## 🛠️ Tech Stack
 
-<details>
-      <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Github Stats</h3></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=endioliveira&theme=dracula&hide_border=false&include_all_commits=true&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=endioliveira&theme=dracula&hide_border=false">
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endioliveira&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-</details>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-143D54?style=for-the-badge&logo=PhpStorm&logoColor=white)
 
+---
+
+## 💼 Experiência Profissional
+
+**Desenvolvedora Frontend Júnior**  
+*Maio 2024 - Atual*  
+- Desenvolvimento frontend em aplicações web. [memory:3]
+
+**Estagiária Desenvolvedora Frontend**  
+*2 anos*  
+- Desenvolvimento e manutenção de interfaces frontend. [memory:3]
+
+---
+
+## 📚 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Centro Universitário União das Américas*  
+*Concluído* [memory:3]
+
+---
+
+## 📫 Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/endioliveira/))
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endioliveirademedeiros@gmail.com)
+
+---
